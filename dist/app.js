@@ -11,9 +11,9 @@
   let selectedContact = 'entertainment';
   let language = 'es';
   const messages = {
-    entertainment: ['El contacto comercial de ARTI estará disponible próximamente.', 'ARTI’s general business contact will be available soon.'],
+    entertainment: ['El contacto comercial de ARTI Creative Group estará disponible próximamente.', 'ARTI Creative Group’s general business contact will be available soon.'],
     guest: ['Para consultar por Guest Star Experience, visita su página de contacto.', 'To ask about Guest Star Experience, visit its contact page.'],
-    software: ['El contacto comercial de ARTI estará disponible próximamente.', 'ARTI’s general business contact will be available soon.'],
+    software: ['El contacto comercial de ARTI Creative Group estará disponible próximamente.', 'ARTI Creative Group’s general business contact will be available soon.'],
     future: ['Compartiremos información sobre estas iniciativas cuando esté disponible.', 'We’ll share information about these initiatives when it becomes available.']
   };
   const readPreference = key => { try { return localStorage.getItem(key); } catch { return null; } };
@@ -33,7 +33,7 @@
     languageButton.setAttribute('aria-label', language === 'es' ? 'Switch to English' : 'Cambiar a español');
     languageButton.textContent = language === 'es' ? 'EN' : 'ES';
     nav.setAttribute('aria-label', language === 'es' ? 'Navegación principal' : 'Main navigation');
-    document.querySelectorAll('a.brand').forEach(a => a.setAttribute('aria-label', language === 'es' ? 'ARTI — inicio' : 'ARTI — home'));
+    document.querySelectorAll('a.brand').forEach(a => a.setAttribute('aria-label', language === 'es' ? 'ARTI Creative Group — inicio' : 'ARTI Creative Group — home'));
     document.querySelector('.hero-bottom a').setAttribute('aria-label', language === 'es' ? 'Explorar servicios' : 'Explore services');
   }
   function renderContact() {
@@ -45,7 +45,7 @@
     root.lang = language;
     document.querySelectorAll('[data-es][data-en]').forEach(el => { el.innerHTML = el.dataset[language]; });
     document.querySelectorAll('[data-alt-es][data-alt-en]').forEach(el => { el.alt = el.dataset[language === 'es' ? 'altEs' : 'altEn']; });
-    document.title = language === 'es' ? 'ARTI — Entretenimiento, talento y tecnología' : 'ARTI — Entertainment, talent and technology';
+    document.title = language === 'es' ? 'ARTI Creative Group — Entretenimiento, talento y tecnología' : 'ARTI Creative Group — Entertainment, talent and technology';
     updateLabels();
     renderContact();
   }
