@@ -1,0 +1,18 @@
+ARTI — KIT DE IDENTIDAD DIGITAL
+
+Empieza abriendo guia/guia-de-marca.html en tu navegador. La guía explica la marca, su paleta, las variantes claras y oscuras, y las recomendaciones de aplicación.
+
+CARPETAS
+logos/ — logos en SVG y PNG transparentes, con y sin lema, y versiones monocromas.
+simbolo/ — la a con detalle musical, por separado.
+iconos/ — iconos de aplicación en distintos fondos, y PNG de 32, 180 y 512 px.
+guia/ — guía de marca, paleta CSS, vista general y concepto aprobado.
+
+PARA ELEGIR UN LOGO
+Sobre fondo claro: arti-logo-principal-oscuro.
+Sobre fondo oscuro: arti-logo-principal-claro.
+Para escala o impresión: SVG. Para insertar rápidamente: PNG transparente.
+
+Paleta: violeta #7500F5, naranja #FF6B00, tinta #1C082C, crema #FFF8F2 y blanco #FFFFFF.
+
+Los gráficos son una reconstrucción vectorial basada en la imagen generada y aprobada en la conversación. No son una extracción idéntica del arte original. Los textos del logo están convertidos a trazados y no requieren instalar una fuente. La imagen del teléfono es conceptual.

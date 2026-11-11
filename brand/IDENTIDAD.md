@@ -1,13 +1,9 @@
-# ARTI — identidad visual
+# ARTI — identidad aplicada a la web
 
-Propuesta original para Arti Creative Group. El símbolo parte de una A abierta que integra un arco de encuentro: escenario, conexión y movimiento en una forma reproducible a tamaños pequeños. El punto sugiere presencia humana y el ritmo de una nota; el signo funciona también como icono independiente. La firma usa una tipografía geométrica de peso alto para claridad y confianza, acompañada por una denominación secundaria espaciada.
+El kit digital aportado para este rediseño es la fuente de identidad vigente en este proyecto. El kit completo y su guía se conservan en `brand/kit/`; el material de la propuesta anterior permanece en el historial del repositorio.
 
-## Paleta
+El logotipo utiliza la variante oscura sobre crema en el tema claro y la variante clara sobre tinta en el tema oscuro. El símbolo original se usa sin alterar sus proporciones, con el detalle musical y sus degradados. Las piezas gráficas propias de la página recurren a conexiones y círculos inspirados en el símbolo.
 
-- Azul noche `#17283B`: base estable y legible; una asociación visual de confianza y capacidad tecnológica.
-- Coral vivo `#EE795E`: acento cálido para energía, participación y creatividad. Se utiliza como superficie o elemento gráfico, no como texto pequeño sobre blanco.
-- Marfil `#F6F2EA`: fondo cálido que aporta claridad y espacio editorial.
-- Salvia `#C9D8D1`: transición suave hacia la parte humana de la marca.
-- Ciruela `#211B2B`: reservado para la personalidad visual de Guest Star Experience.
+Colores base del kit: violeta `#7500F5`, naranja `#FF6B00`, tinta `#1C082C`, crema `#FFF8F2` y blanco `#FFFFFF`. La página usa tonos complementarios para superficies y texto secundario en ambos temas; reserva el violeta y el naranja para jerarquía y acentos. Las combinaciones de texto principales se comprobaron para contraste legible.
 
-Estas asociaciones son decisiones creativas, no garantías de respuesta emocional. Mantener contraste suficiente y no depender solo del color para comunicar estados. El símbolo y la firma se entregan en SVG para escalar sin pérdida; conservar proporciones y un espacio libre aproximado a la altura del punto alrededor del símbolo. Sobre fondos oscuros usar una firma clara; no alterar marcas de clientes.
+La vista de Guest Star se mantiene como una sección con personalidad propia. La imagen del Host procede de gstarxp.com y se presenta como visual ilustrativo; las marcas de hoteles son las imágenes entregadas por el usuario.
