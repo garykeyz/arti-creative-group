@@ -14,7 +14,7 @@ Abrir `http://localhost:8765/`. `python3 scripts/build-content.py` regenera `dis
 
 `dist/demo/` contiene una adaptación independiente de la demo estática de [Artivo](https://github.com/garykeyz/artivo), revisión `3393b8145ee1af12af281ba6bd286705b27f71f5`. Utiliza un conjunto de muestra generado desde una base nueva e IndexedDB local. No hay cuentas, reservas, pagos, verificaciones ni cobertura reales. La versión pública no ofrece una perspectiva administrativa. La demo está en español; el sitio corporativo está disponible en español e inglés.
 
-El código de producción y los datos locales de Artivo o Guest Star no forman parte de este sitio. Las imágenes de muestra de la demo pueden cargarse desde Unsplash; la imagen de Guest Star procede del sitio público del producto y se identifica como ilustración.
+El código de producción y los datos locales de Artivo o Guest Star no forman parte de este sitio. Las imágenes de muestra de la demo se sirven desde este proyecto; la imagen de Guest Star procede del sitio público del producto y se identifica como ilustración.
 
 ## Publicación
 

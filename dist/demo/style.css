@@ -393,7 +393,7 @@ small,
   inset: 0 0 0 47%;
   background:
     linear-gradient(90deg, #143e32 0%, #143e3210 50%, #143e3230),
-    url("https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&w=1300&q=85")
+    url("assets/photo-1520523839897-bd0b52f945a0.jpg")
       center 60% / cover;
 }
 .hero-badge {
@@ -1258,7 +1258,7 @@ td {
   inset: 0;
   background:
     linear-gradient(#143e3280, #143e32 90%),
-    url("https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=1600&q=85")
+    url("assets/photo-1511192336575-5a79af67a629.jpg")
       center/cover;
   opacity: 0.65;
 }
